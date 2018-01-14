@@ -1,0 +1,22 @@
+{
+  "name": "@gobum/unit",
+  "version": "0.0.1",
+  "description": "Gobum unit/module",
+  "main": "exports.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gobum/unit.git"
+  },
+  "author": "李战 (leadzen)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gobum/unit/issues"
+  },
+  "homepage": "https://github.com/gobum/unit#readme",
+  "devDependencies": {
+    "ihope": "^0.1.11"
+  }
+}
